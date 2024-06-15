@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Homero",
+    "genere": "Comic",
+    "author": "Simpsons",
+    "editorial": "Fox",
+    "year": "1990"
+  },
+  {
+    "title": "Divina Comedia",
+    "genere": "Epic Peotry",
+    "author": "Dante",
+    "editorial": "Epic",
+    "year": "1321"
+  }
+]
